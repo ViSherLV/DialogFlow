@@ -1,17 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b61b80e1-e08b-4d3b-a7c6-13fd89bdbe02" name="Default Changelist" comment="" />
+    <list default="true" id="b61b80e1-e08b-4d3b-a7c6-13fd89bdbe02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TT6Cher9x1nNzNfUYupeCvWrvU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ngage" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,11 +50,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573471612160</updated>
-      <workItem from="1573471614567" duration="3392000" />
+      <workItem from="1573471614567" duration="3961000" />
+      <workItem from="1573487587229" duration="1001000" />
+      <workItem from="1573544620506" duration="626000" />
+      <workItem from="1573630430377" duration="605000" />
+      <workItem from="1573647679679" duration="59000" />
+      <workItem from="1573726725717" duration="1947000" />
+      <workItem from="1573740774557" duration="789000" />
+      <workItem from="1573818509044" duration="3045000" />
+      <workItem from="1574063178008" duration="6874000" />
+      <workItem from="1574149060737" duration="3955000" />
+      <workItem from="1574927066870" duration="3639000" />
+      <workItem from="1575014154564" duration="16355000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
